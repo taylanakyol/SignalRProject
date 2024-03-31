@@ -1,4 +1,4 @@
 # SignalRProject
 
-Çok katmanlı mimari
-Repository Design Pattern
+- Çok katmanlı mimari
+- Repository Design Pattern
