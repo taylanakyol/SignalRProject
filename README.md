@@ -1,3 +1,4 @@
 # SignalRProject
 
-Çok katmanlı mimari kullanıldı.
+Çok katmanlı mimari
+Repository Design Pattern
