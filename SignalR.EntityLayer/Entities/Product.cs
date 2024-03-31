@@ -1,4 +1,5 @@
 ﻿namespace SignalR.EntityLayer.Entities
+{
     public class Product
     {
         public int ProductID { get; set; }
